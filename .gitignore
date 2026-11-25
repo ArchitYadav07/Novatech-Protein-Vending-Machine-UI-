@@ -1,0 +1,8 @@
+node_modules/
+dist/
+temp_close_kiosk.vbs
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.local
